@@ -15,6 +15,7 @@ public class SearchElement_1D {
 			if(element==check) {
 				test=true;
 				break;
+				
 			}
 		}
 		System.out.println(test);
